@@ -30,5 +30,7 @@ Senior manager responsible for the success of major projects. Part of the OSL's 
 ## Systems Administrator
 [State of Oregon DAS IRMD](http://www.oregon.gov/DAS/ETS/Pages/index.aspx)
 
+_September 1994 - May 2006_
+
 Designed, built, installed, supported, and maintained statewide multi-agency systems on open source and proprietary platforms for the state agency responsible for providing enterprise voice, video and data services to all of Oregon state government as well as local governments, nonproﬁt organizations, and the general public.
 
