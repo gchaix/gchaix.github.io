@@ -3,7 +3,7 @@ layout: default
 title: Greg Lund-Chaix
 ---
 
-I am a system administrator, developer, and project manager qualiﬁed by eighteen years experience in deploying and adapting open source technology to customer needs. With broad-based experience in rapid deployment of systems to governmental, educational, and nonproﬁt organizations, I love designing and building systems that fulfill their needs.
+I am a system administrator, developer, and project manager qualiﬁed by twenty years experience in deploying and adapting open source technology to customer needs. With broad-based experience in rapid deployment of systems to governmental, educational, and nonproﬁt organizations, I love designing and building systems that fulfill their needs.
 
 I get a thrill out of making servers go big and go fast!
 
