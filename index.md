@@ -9,10 +9,19 @@ I get a thrill out of making servers go big and go fast!
 
 ---
 
+## Senior Performance Engineer
+[Tag1 Consulting](http://tag1consulting.com/)
+
+_July 2015 - Present_
+
+Engineer focused on performance, scaling, and security for large scale web systems.
+
+---
+
 ##Director of Technology
 [Squishymedia](http://squishymedia.com)
 
-_November 2012 - Present_
+_November 2012 - July 2015_
 
 Senior developer and technical manager focusing on infrastructure and systems engineering assisting public sector and non-profit clients to create systems that are usable, scalable, and reliable.
 
